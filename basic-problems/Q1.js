@@ -1,5 +1,5 @@
 /* Q1. Count vowels in a string
-Write a function that counts the vowels (a, e, i, o, u) in a given string. */
+Write a function that counts the vowels (a, e, i, o, u) in a given string.*/
 
 let str = "javascript";
 let countVowel = (str) =>{
@@ -17,3 +17,7 @@ let countVowel = (str) =>{
 }
 
 countVowel(str);
+
+
+
+
